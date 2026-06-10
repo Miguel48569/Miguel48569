@@ -40,17 +40,15 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programa�
 ### 📬 Contato
 
 <div>
+  <!-- Imagem do Kakashi alinhada à direita -->
   <img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
 
-  <a href="mailto:miguel.leite.dev1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/miguel-do-nascimento-leite" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <!-- Botões de contacto agrupados -->
+  <a href="mailto:miguel.leite.dev1@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a><br>
+  <a href="https://www.linkedin.com/in/miguel-do-nascimento-leite" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
+<!-- Quebra o alinhamento para a cobrinha ficar estritamente abaixo -->
 <br clear="both">
 <br>
 
@@ -60,6 +58,6 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programa�
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
   </picture>
-  <br>
+  <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Miguel48569.Miguel48569&" alt="Visitor Badge" />
 </div>
