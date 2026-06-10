@@ -50,13 +50,11 @@ Estudante de An√°lise e Desenvolvimento de Sistemas no Senac. Encaro a programa√
 <br>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
-  <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Miguel48569/Miguel48569@output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Miguel48569/Miguel48569@output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/Miguel48569/Miguel48569@output/github-contribution-grid-snake.svg">
   </picture>
-  <br>
+  <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Miguel48569.Miguel48569&" alt="Visitor Badge" />
 </div>
