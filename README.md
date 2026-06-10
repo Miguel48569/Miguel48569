@@ -1,8 +1,8 @@
-## Olá, eu sou o Miguel Leite! 
+## Olá, eu sou o Miguel Leite! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programação como uma ferramenta para resolver problemas reais e, por isso, valorizo muito a adaptabilidade. Dedico meu tempo a projetos práticos variados, explorando desde integrações com APIs e tratamento de dados até a criação de aplicações funcionais. Meu foco atual é construir uma base sólida, escrever códigos limpos e estar pronto para aprender e agregar em qualquer área do desenvolvimento.
 
-###  Tecnologias
+### 🛠️ Tecnologias
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -31,27 +31,30 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programa�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
-###  Estatísticas
+### 📊 Estatísticas
 <p>
   <img alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Miguel48569&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel48569&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-###  Contato
-<p>
+### 📬 Contato
+
+<div>
+  <img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
+
   <a href="mailto:miguel.leite.dev1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <br><br>
   <a href="https://www.linkedin.com/in/miguel-do-nascimento-leite" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</p>
+</div>
 
+<br clear="both">
 <br>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
-  <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake-dark.svg?v=1">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
