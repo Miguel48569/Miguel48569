@@ -1,4 +1,4 @@
-## Olá, eu sou o Miguel Leite! 👋
+## Olá, eu sou o Miguel Leite! 
 
 Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programação como uma ferramenta para resolver problemas reais e, por isso, valorizo muito a adaptabilidade. Dedico meu tempo a projetos práticos variados, explorando desde integrações com APIs e tratamento de dados até a criação de aplicações funcionais. Meu foco atual é construir uma base sólida, escrever códigos limpos e estar pronto para aprender e agregar em qualquer área do desenvolvimento.
 
@@ -53,9 +53,9 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programa�
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
   </picture>
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Miguel48569.Miguel48569&" alt="Visitor Badge" />
