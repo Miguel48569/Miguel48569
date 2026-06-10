@@ -37,13 +37,11 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programa�
   <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel48569&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
+<img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
+
 ###  Contato
 
-<div>
-  <!-- Imagem do Kakashi alinhada à direita -->
-  <img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
-
-  <!-- Botões de contato empilhados à esquerda -->
+<p>
   <a href="mailto:miguel.leite.dev1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -51,9 +49,8 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programa�
   <a href="https://www.linkedin.com/in/miguel-do-nascimento-leite" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-</div>
+</p>
 
-<!-- O clear both garante que a cobrinha não tente subir para o lado do Kakashi -->
 <br clear="both">
 <br>
 
