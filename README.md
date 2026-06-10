@@ -48,15 +48,15 @@ Estudante de An√°lise e Desenvolvimento de Sistemas no Senac. Encaro a programa√
   <a href="https://www.linkedin.com/in/miguel-do-nascimento-leite" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
-<!-- Quebra o alinhamento para a cobrinha ficar estritamente abaixo -->
+<!-- Quebra o alinhamento para a cobrinha ficar abaixo -->
 <br clear="both">
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=2">
   </picture>
   <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Miguel48569.Miguel48569&" alt="Visitor Badge" />
