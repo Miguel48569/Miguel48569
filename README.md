@@ -49,8 +49,15 @@ Estudante de An√°lise e Desenvolvimento de Sistemas no Senac. Encaro a programa√
 
 <br>
 
-<br clear="both">
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg?v=1">
+  </picture>
+</div>
 <div align="center">
   <img alt="Snake Animation" src="https://cdn.jsdelivr.net/gh/Miguel48569/Miguel48569@snake-output/snake.svg" />
   <br><br>
