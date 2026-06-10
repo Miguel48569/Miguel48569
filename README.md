@@ -1,29 +1,12 @@
 <h2 align="center">Olá! Bem-vindo ao meu GitHub</h2>
 
-###
+<p align="center">Olá! Sou o Miguel Leite, estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programação como uma ferramenta para resolver problemas reais e, por isso, valorizo muito a adaptabilidade. Dedico meu tempo a projetos práticos variados, explorando desde integrações com APIs e tratamento de dados até a criação de aplicações funcionais. Meu foco atual é construir uma base sólida, escrever códigos limpos e estar pronto para aprender e agregar em qualquer área do desenvolvimento.</p>
 
-<p align="left">Olá! Sou o Miguel Leite, estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programação como uma ferramenta para resolver problemas reais e, por isso, valorizo muito a adaptabilidade. Dedico meu tempo a projetos práticos variados, explorando desde integrações com APIs e tratamento de dados até a criação de aplicações funcionais. Meu foco atual é construir uma base sólida, escrever códigos limpos e estar pronto para aprender e agregar em qualquer área do desenvolvimento.</p>
+<br>
 
-###
+<h3 align="center">🛠️ Tecnologias</h3>
 
-###  📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RafaelADSdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelADSdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -51,31 +34,55 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+<br>
 
-<div align="left">
+<h3 align="center">📊 Estatísticas</h3>
+
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Miguel48569&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+      alt="Top Languages" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel48569&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br>
+
+<h3 align="center">📬 Contato</h3>
+
+<div align="center">
   <a href="mailto:miguel.leite.dev1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/miguel-do-nascimento-leite" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-do-nascimento-leite" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+<br>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif"  />
-
-###
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGpwdng5eGxjYXA4ZjV1MDlyYWY2d29nOWg3cjR0YmtyZjRiM25vdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zwDNti5vWFujS/giphy.gif" alt="Kakashi GIF" />
+</div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzak.maurodesouzak&"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miguel48569/Miguel48569/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Miguel48569.Miguel48569&" alt="Visitor Badge" />
+</div>
