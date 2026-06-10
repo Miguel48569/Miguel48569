@@ -49,12 +49,10 @@ Estudante de An√°lise e Desenvolvimento de Sistemas no Senac. Encaro a programa√
 
 <br>
 
+<br clear="both">
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Miguel48569/Miguel48569@output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Miguel48569/Miguel48569@output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/Miguel48569/Miguel48569@output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="Snake Animation" src="https://cdn.jsdelivr.net/gh/Miguel48569/Miguel48569@snake-output/snake.svg" />
   <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Miguel48569.Miguel48569&" alt="Visitor Badge" />
 </div>
