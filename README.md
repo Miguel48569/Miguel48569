@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas no Senac. Encaro a programação como uma ferramenta para resolver problemas reais e, por isso, valorizo muito a adaptabilidade. Dedico meu tempo a projetos práticos variados, explorando desde integrações com APIs e tratamento de dados até a criação de aplicações funcionais. Meu foco atual é construir uma base sólida, escrever códigos limpos e estar pronto para aprender e agregar em qualquer área do desenvolvimento.
 
-### 🛠️ Tecnologias
+###  Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
